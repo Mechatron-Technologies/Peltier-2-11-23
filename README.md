@@ -2,6 +2,8 @@
 
 Este proyecto consiste en un sistema de control de temperatura para una casa utilizando sensores DHT11 para medir la temperatura y la humedad tanto en un tanque como en el interior de la casa. El sistema utiliza relevadores para regular la temperatura de la casa según una temperatura deseada, activando o desactivando una placa Peltier y una bomba de agua.
 
+![Circuito](IMG-20231102-WA0025.jpg)
+
 ## Componentes necesarios:
 
 1. Arduino Uno o compatible
